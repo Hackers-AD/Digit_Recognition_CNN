@@ -1,5 +1,4 @@
-# Digit_Recognition_CNN
-Model Optimization using Batch Normalization and Dropout Techniques 
+# Digit_Recognition_CNN - Model Optimization using Batch Normalization and Dropout Techniques 
 In this project, various neural network architectures are successfully explored for digit recognition.
 The results demonstrate the effectiveness of convolutional neural networks in improving accuracy
 and generalization. Batch normalization and regularization techniques further enhance the model's
